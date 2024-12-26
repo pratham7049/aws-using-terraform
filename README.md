@@ -24,17 +24,17 @@ This project provisions a Jenkins CI/CD pipeline on AWS using Terraform. It incl
 ├── outputs.tf
 └── README.md
 
-# Configure AWS CLI:
+## Configure AWS CLI:
 - aws configure
 
-# Initialize Terraform:
+## Initialize Terraform:
 - terraform init
 
-# Plan the configuration
+## Plan the configuration
 - terraform plan
 
-# Apply the configuration
+## Apply the configuration
 - terraform apply
 
-# Destroy the configuration
+## Destroy the configuration
 - terraform destroy
